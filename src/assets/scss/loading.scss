@@ -1,0 +1,13 @@
+.loading {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: #ffffff70;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: 0.5;
+  }
