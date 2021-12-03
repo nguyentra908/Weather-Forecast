@@ -60,7 +60,7 @@ const Header=()=> {
             component="div"
             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
           >
-            WEATHER FOCAST
+            WEATHER FORECAST
           </Typography>
           <SearchForm onSubmit={handleSubmit}/>
         </Toolbar>
